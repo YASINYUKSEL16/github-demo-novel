@@ -3,3 +3,6 @@ SECOND COMMIT
 THIRD COMMIT
 
 buradaki değişikler yeni branch içerisinde olacaktır
+
+merhaba
+nasılsın
