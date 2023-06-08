@@ -6,6 +6,3 @@ buradaki değişikler yeni branch içerisinde olacaktır
 
 merhaba
 nasılsın
-
-hello how are you
-
