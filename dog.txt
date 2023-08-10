@@ -1,8 +1,11 @@
 FIRST COMMIT
 SECOND COMMIT
 THIRD COMMIT
+FOURTH COMMIT
 
 buradaki değişikler yeni branch içerisinde olacaktır
 
 merhaba
 nasılsın
+
+mobilite olarak commit atılması örneği bu şekilde olacaktır
